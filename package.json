@@ -9,5 +9,7 @@
   },
   "scripts": {
     "dev": "babel ./main.js -o ./bundle.js -w"
-  }
+  },
+  "repository": "https://github.com/kewensilva/Curso-ES6.git",
+  "author": "KewenSilva <kewen.macedo@gmail.com>"
 }
